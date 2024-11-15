@@ -11,7 +11,7 @@ const Header = () => {
       ></div>
 
       {/* Main Content */}
-      <div className="px-56">
+      <div className="relative px-56">
         <Navbar />
         <Hero />
       </div>
